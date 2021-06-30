@@ -1,6 +1,8 @@
 # valar morghulis, José Roberto
 
 <img height="40em" src="https://user-images.githubusercontent.com/40812505/123888140-33bf6580-d929-11eb-8cd7-913b5b8e954c.png"/>
+<a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <div>
 <a href="https://github.com/jrlimax">
