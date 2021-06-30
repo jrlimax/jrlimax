@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrlimax&layout=compact&langs_count=6&theme=midnight-purple"/>
+
+
 ![Snake animation](https://github.com/jrlimax/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 <!--
