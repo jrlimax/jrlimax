@@ -1,4 +1,5 @@
-### Hi there 👋
+valar morghulis, José Roberto. ![image](https://user-images.githubusercontent.com/40812505/123888140-33bf6580-d929-11eb-8cd7-913b5b8e954c.png)
+
 <div>
 <a href="https://github.com/jrlimax">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrlimax&show_icons=true&theme=midnight-purple&include_all_commits=true"/>
