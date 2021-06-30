@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div style="display: space-between">
+<div>
 <a href="https://github.com/jrlimax">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrlimax&show_icons=true&theme=midnight-purple&include_all_commits=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrlimax&layout=compact&langs_count=6&theme=midnight-purple"/>
