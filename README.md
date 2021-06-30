@@ -2,7 +2,7 @@
 
 <img height="40em" src="https://user-images.githubusercontent.com/40812505/123888140-33bf6580-d929-11eb-8cd7-913b5b8e954c.png"/>
 <a href="https://www.instagram.com/jrlimax/" target="_blank"><img src="https://user-images.githubusercontent.com/40812505/123892217-88b2aa00-d930-11eb-8a9a-cc6bd44493f0.png"></a>
-<a width="30em" href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" width="30em"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <div>
 <a href="https://github.com/jrlimax">
