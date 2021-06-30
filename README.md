@@ -6,10 +6,12 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrlimax&layout=compact&langs_count=6&theme=midnight-purple"/>
 </div><br>
 
+<p align="center">
 <a href="https://www.instagram.com/jrlimax/"><img width="50em" src="https://user-images.githubusercontent.com/40812505/123893035-0a570780-d932-11eb-8fa7-236d9d8902c1.png"></a>
 
 <a href="https://www.linkedin.com/in/jos%C3%A9-roberto-lima-952826165"><img width="50em" src="https://user-images.githubusercontent.com/40812505/123893736-55bde580-d933-11eb-88b5-e4450b7aa304.png"></a> 
-
+</p>
+  
 ![Snake animation](https://github.com/jrlimax/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 <!--
