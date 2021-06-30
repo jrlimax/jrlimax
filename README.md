@@ -14,5 +14,5 @@
 ![Snake animation](https://github.com/jrlimax/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
-	<img src="https://komarev.com/ghpvc/?username=jrlimax&color=8c36db&style=flat&label=visitors" />
+	<img src="https://komarev.com/ghpvc/?username=jrlimax&color=4B07AF&style=flat&label=visitors" />
 </p>
