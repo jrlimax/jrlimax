@@ -1,10 +1,7 @@
 # José Roberto,
 
 <div>
-<a href="https://github.com/jrlimax">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrlimax&show_icons=true&theme=midnight-purple&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrlimax&layout=compact&langs_count=6&theme=midnight-purple"/>
-</div><br>
+
 
 <div style="display: inline_block">
 <a href="https://www.linkedin.com/in/jos%C3%A9-roberto-lima-952826165"><img width="50em" src="https://user-images.githubusercontent.com/40812505/123893736-55bde580-d933-11eb-88b5-e4450b7aa304.png"></a>
