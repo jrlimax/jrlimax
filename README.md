@@ -3,7 +3,7 @@
 <p align="center">
   <b>Cloud & Security Analyst</b> · Microsoft Azure · Oracle Cloud · Microsoft 365 · Cybersecurity
   <br/>
-  <i>Suzano, SP — Brasil</i>
+  <i>SP — Brasil</i>
 </p>
 
 <p align="center">
